@@ -1,4 +1,4 @@
-# Luke's dmenu
+# Adam's dmenu
 
 Extra stuff added to vanilla dmenu:
 
